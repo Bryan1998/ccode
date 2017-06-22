@@ -1,5 +1,5 @@
 // cw coleman
-// compile gcc input.c -o input -lm
+// compile gcc quad.c -o quad -lm
 #include <stdio.h>
 #include <math.h>
 float discriminant(float a, float b, float c);
